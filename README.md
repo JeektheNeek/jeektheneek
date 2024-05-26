@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello all 🤗
 - 🔭 I’m currently working on coding coursework and an mp3 hardware project.
 - 🌱 I’m currently learning Java, Web (HTML, CSS, JS) and Arduino, while studing A-Level Computer Science
 - 💬 Ask me about what I'm working on
